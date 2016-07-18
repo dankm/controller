@@ -89,7 +89,7 @@ BuildPath="ICED-R"
 
 # Only changing the basemap (everything else is the same)
 # Generally shouldn't be changed, this will affect every layer
-BaseMap="defaultMap rightHand slave1 leftHand"
+BaseMap="scancode_map rightHand slave1 leftHand"
 
 # Load the library (starts the build)
 source cmake.bash
